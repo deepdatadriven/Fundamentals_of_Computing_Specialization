@@ -1,0 +1,22 @@
+If there is no return in a function, python will print NONE
+
+Mini-project #1 - Rock-paper-scissor-lizard-Spock
+http://www.codeskulptor.org/#user43_8POHVzAFbXVDQaE.py
+# 0 win 34, 1 win 04, 2 win 01, 3 win 12, 4 win 23
+# 0 - rock
+# 1 - Spock
+# 2 - paper
+# 3 - lizard
+# 4 - scissors
+
+
+Mini-project description - “Guess the number” game
+http://www.codeskulptor.org/#user43_hDM18hR3slY05JW.py
+
+Mini-project #3 - Stopwatch: The Game
+http://www.codeskulptor.org/#user43_6RyxWXNIME9lwBL.py
+
+Mini-project #4 - Pong
+http://www.codeskulptor.org/#user43_8wdtxLaFYK875va.py
+
+
